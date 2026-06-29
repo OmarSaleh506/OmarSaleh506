@@ -67,14 +67,6 @@
 
 ## 📌 Featured projects
 
-<div align="center">
-
-[![skills](https://github-readme-stats.vercel.app/api/pin/?username=OmarSaleh506&repo=skills&theme=tokyonight&hide_border=true)](https://github.com/OmarSaleh506/skills)
-[![BudgetTracker](https://github-readme-stats.vercel.app/api/pin/?username=OmarSaleh506&repo=BudgetTracker&theme=tokyonight&hide_border=true)](https://github.com/OmarSaleh506/BudgetTracker)
-[![retro-snake](https://github-readme-stats.vercel.app/api/pin/?username=OmarSaleh506&repo=retro-snake&theme=tokyonight&hide_border=true)](https://github.com/OmarSaleh506/retro-snake)
-
-</div>
-
 - 🧩 **[skills](https://github.com/OmarSaleh506/skills)** — portable agent skills for Claude Code (and other agents), installable as a plugin marketplace
 - 💸 **[BudgetTracker](https://github.com/OmarSaleh506/BudgetTracker)** — a Flutter app for tracking personal budgets & expenses
 - 🕹️ **[retro-snake](https://github.com/OmarSaleh506/retro-snake)** — Classic Snake with a CRT/phosphor terminal aesthetic, single HTML file, zero deps
