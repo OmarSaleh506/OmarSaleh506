@@ -2,7 +2,7 @@
 
 # Hi, I'm Omar 👋
 
-### ☸️ DevOps Engineer · Full-Cycle Software Engineer
+### ☸️ DevOps Engineer · Kubernetes · GitOps · Multi-Cloud
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Production+Kubernetes+at+scale;GitOps+%26+IaC+across+multi-cloud;I+ship+products+solo%2C+end-to-end;Full-cycle+product+engineer)](https://github.com/OmarSaleh506)
 
